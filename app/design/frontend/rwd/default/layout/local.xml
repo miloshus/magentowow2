@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="header">
+             <remove name="top.search" />
+        </reference>
+
+
+
+        <reference name="header">
+            <remove name="minicart_head" />
+        </reference>
+
+        <reference name="header">
+            <remove name="topMenu" />
+        </reference>
+
+
+    </default>
+</layout>
+
+
+
